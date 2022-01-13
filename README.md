@@ -7,4 +7,6 @@ for running it all you have to do is use the data that i have already created us
 
 ![final_changes](https://user-images.githubusercontent.com/62688683/149415195-1ccc810b-a2af-4441-bb1e-44559997af15.png)
 
+The image below is showing you the number of how many times the rolls occured in decending order
+
 ![Screenshot 2022-01-14 032950](https://user-images.githubusercontent.com/62688683/149415745-7e5ad626-b515-4c7f-b271-2ec2124d0260.png)
