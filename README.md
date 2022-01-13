@@ -10,3 +10,5 @@ for running it all you have to do is use the data that i have already created us
 The image below is showing you the number of how many times the rolls occured in decending order
 
 ![Screenshot 2022-01-14 032950](https://user-images.githubusercontent.com/62688683/149415745-7e5ad626-b515-4c7f-b271-2ec2124d0260.png)
+
+![Untitled](https://user-images.githubusercontent.com/62688683/149416602-45e85e41-cc78-4db1-b5d8-0509adfa3241.png)
