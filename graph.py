@@ -38,7 +38,7 @@ ax.legend(wedges, sides,
           bbox_to_anchor =(1, 0, 0.5, 1))
  
 plt.setp(autotexts, size = 8, weight ="bold")
-ax.set_title("Customizing pie chart")
+ax.set_title("[ 1->170046 ] , [ 2->168790 ] ,[ 3->168797 ] , [ 4->168745 ] , [ 5->169191 ] , [ 6->169594 ]")
  
 # show plot
 plt.show()
